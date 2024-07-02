@@ -1,9 +1,9 @@
 ## Hi there 👋
 
 ## 資展國際小組專案(前端班)
-主題:花店平台
-前端檔案:https://github.com/forget0224/next-react-nextUI
-後端檔案:https://github.com/Miminywang/Bloomify-node
+主題:花店平台<br>
+前端檔案:https://github.com/forget0224/next-react-nextUI<br>
+後端檔案:https://github.com/Miminywang/Bloomify-node<br>
 
 <!--
 **simpleme37/simpleme37** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
