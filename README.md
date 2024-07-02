@@ -5,6 +5,9 @@
 前端檔案:https://github.com/forget0224/next-react-nextUI<br>
 後端檔案:https://github.com/Miminywang/Bloomify-node<br>
 
+## 動態與設計作品展示
+https://drive.google.com/drive/folders/13iPC0NseDQxqpcXLObZXylrMnzmWheP2?usp=drive_link
+
 <!--
 **simpleme37/simpleme37** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
