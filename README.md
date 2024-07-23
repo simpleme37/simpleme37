@@ -8,3 +8,7 @@
 ## 動態與設計作品展示
 :link: https://drive.google.com/drive/folders/13iPC0NseDQxqpcXLObZXylrMnzmWheP2?usp=drive_link<br>
 連結中展示了我的動態作品集，由於上一份工作做了比較多動態的部份，所以以這種方式呈現。
+
+## 我的簡歷
+:link: https://github.com/simpleme37/resume<br>
+連結中展示了我的 RWD 簡歷，使用 HTML + CSS。
