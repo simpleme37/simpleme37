@@ -6,12 +6,12 @@
 前端使用 React 和 Next.js ，用 Tailwind CSS 作為 UI 框架 ，後端則是使用 Node.js 和 MySQL 資料庫。
 
 ## 動態與設計作品展示
-:link: https://drive.google.com/drive/folders/13iPC0NseDQxqpcXLObZXylrMnzmWheP2?usp=drive_link<br>
-連結中展示了我的動態作品集，由於上一份工作做了比較多動態的部份，所以以這種方式呈現。
+連結中展示了我的動態作品集，由於上一份工作做了比較多動態的部份，所以以這種方式呈現。<br>
+:link: https://drive.google.com/drive/folders/13iPC0NseDQxqpcXLObZXylrMnzmWheP2?usp=drive_link
 
 ## 我的簡歷
-:link: https://github.com/simpleme37/resume<br>
-連結中展示了我的 RWD 簡歷，使用 HTML + CSS。
+我的 RWD 簡歷，使用 HTML + CSS。<br>
+:link: https://github.com/simpleme37/resume
 
 ## 練習
 To-Do List 練習<br>
