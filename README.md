@@ -1,8 +1,7 @@
 ## 資展國際小組專案(前端班)
 前端檔案 :link: https://github.com/forget0224/next-react-nextUI<br>
 後端檔案 :link: https://github.com/Miminywang/Bloomify-node<br>
-專案介紹簡報 :link: 
-我們團隊完成了一個花店平台專題。在這個專題中，我負責課程的部分。包括課程首頁、課程詳細頁、課程購物車和課程訂單明細。
+我們小組完成了一個花店平台專題。在這個專題中，我負責課程的部分。包括課程首頁、課程詳細頁、課程購物車和課程訂單明細。
 前端使用 React 和 Next.js ，用 Tailwind CSS 作為 UI 框架 ，後端則是使用 Node.js 和 MySQL 資料庫。
 
 ## 動態與設計作品展示
