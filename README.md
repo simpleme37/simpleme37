@@ -12,3 +12,7 @@
 ## 我的簡歷
 :link: https://github.com/simpleme37/resume<br>
 連結中展示了我的 RWD 簡歷，使用 HTML + CSS。
+
+## 練習
+To-Do List 練習 :link: https://github.com/simpleme37/to-do-list
+註冊/登入登出練習 :link: https://github.com/simpleme37/auth-demo
