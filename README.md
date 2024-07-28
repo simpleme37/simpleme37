@@ -2,7 +2,7 @@
 前端檔案 :link: https://github.com/forget0224/next-react-nextUI<br>
 後端檔案 :link: https://github.com/Miminywang/Bloomify-node<br>
 我們小組完成了一個花店平台專題。在這個專題中，我負責課程的部分。包括課程首頁、課程詳細頁、課程購物車和課程訂單明細。
-前端使用 React 和 Next.js ，用 Tailwind CSS 作為 UI 框架 ，後端則是使用 Node.js 和 MySQL 資料庫。
+前端使用 React 和 Next.js ，用 Tailwind CSS 作為 UI 框架 ，後端則是使用 Node.js 和 Express 建構。
 
 ## 動態與設計作品展示
 連結中展示了我的動態作品集，由於上一份工作做了比較多動態的部份，所以以這種方式呈現。<br>
