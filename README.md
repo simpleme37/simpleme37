@@ -13,9 +13,9 @@
 :link: https://github.com/simpleme37/resume
 
 ## 練習
-To-Do List 練習<br>
+To-Do List<br>
 :link: https://github.com/simpleme37/to-do-list<br>
-註冊/登入登出練習<br>
+註冊/登入登出<br>
 :link: https://github.com/simpleme37/auth-demo<br>
-氣象資料串接練習<br>
+氣象資料串接<br>
 :link: https://github.com/simpleme37/react-weather-demo<br>
